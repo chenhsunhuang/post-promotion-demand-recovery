@@ -1,0 +1,28 @@
+category,actual,predicted,count
+Feminine hygiene,Medium,Medium,8
+Feminine hygiene,Medium,Low,9
+Feminine hygiene,Medium,High,3
+Feminine hygiene,Low,Medium,7
+Feminine hygiene,Low,Low,28
+Feminine hygiene,Low,High,6
+Feminine hygiene,High,Medium,3
+Feminine hygiene,High,Low,5
+Feminine hygiene,High,High,18
+Sunscreen,Medium,Medium,4
+Sunscreen,Medium,Low,2
+Sunscreen,Medium,High,1
+Sunscreen,Low,Medium,1
+Sunscreen,Low,Low,13
+Sunscreen,Low,High,1
+Sunscreen,High,Medium,1
+Sunscreen,High,Low,1
+Sunscreen,High,High,9
+Facial masks,Medium,Medium,12
+Facial masks,Medium,Low,7
+Facial masks,Medium,High,3
+Facial masks,Low,Medium,7
+Facial masks,Low,Low,37
+Facial masks,Low,High,6
+Facial masks,High,Medium,1
+Facial masks,High,Low,8
+Facial masks,High,High,15

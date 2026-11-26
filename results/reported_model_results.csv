@@ -1,0 +1,4 @@
+category,promotion_events,mean_observed_K_days,accuracy,macro_f1,test_events
+Feminine hygiene,511,8.6097,0.6207,0.5917,87
+Sunscreen,221,5.7975,0.7879,0.7574,33
+Facial masks,608,5.687,0.6667,0.6406,96

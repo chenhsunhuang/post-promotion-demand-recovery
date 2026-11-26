@@ -1,0 +1,5 @@
+definition,reported_mean_K_days,events_without_observed_recovery
+Cumulative mean,5.4,125
+3-day moving mean,6.2,52
+2 consecutive days,8.6,78
+3 consecutive days,12.8,167
