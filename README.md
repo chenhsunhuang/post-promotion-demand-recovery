@@ -54,6 +54,15 @@ Three categories with larger event samples were selected for separate classifica
 
 Observed recovery was slower on average for feminine hygiene products than for sunscreen and facial masks. Category-specific modeling accommodates differences in purchase patterns and demand dynamics. The team also explored a second-stage XGBoost regressor using predicted recovery classes to estimate a revenue proxy and inform promotion scenario analysis.
 
+## Key Findings and Business Implications
+
+- **Promotional effects extend beyond the campaign period.** Post-promotion demand recovery provides an additional perspective for evaluating campaign performance beyond immediate sales increases.
+- **Recovery patterns differ across product categories.** Feminine hygiene products exhibited longer average recovery times than sunscreen and facial masks, suggesting that promotion schedules should account for category-specific demand dynamics.
+- **Recovery predictions can support promotion planning.** Estimated recovery classes provide a quantitative reference for evaluating the timing and frequency of subsequent campaigns.
+- **Demand recovery is relevant to inventory decisions.** Understanding post-promotion demand patterns can inform replenishment planning and help retailers evaluate potential inventory imbalances.
+
+The framework connects transaction-level analytics with promotion scheduling, discount planning, and inventory management, supporting a more comprehensive evaluation of promotional strategies.
+
 ## Notebooks
 
 | Notebook | Focus |
